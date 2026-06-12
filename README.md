@@ -16,7 +16,7 @@ PostgreSQL, MySQL and MongoDB
 n8n, Webhooks, API integrations and process automation
 
 **Artificial Intelligence:**
-AI API integrations, LLMs, intelligent agents, virtual assistants and AI-powered automation for real-world workflows
+Generative AI and LLM-based applications, including AI agents, RAG, prompt engineering, LLM orchestration, LangChain, LlamaIndex, LangGraph, OpenAI API, Anthropic/Claude, Gemini, MCP, n8n automation, virtual assistants and AI workflow integration for real-world business processes
 
 **Front-end:**
 HTML, CSS, JavaScript, TypeScript and React
