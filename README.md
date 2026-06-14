@@ -22,7 +22,7 @@ Generative AI and LLM-based applications, including AI agents, RAG, prompt engin
 HTML, CSS, JavaScript, TypeScript and React
 
 **DevOps:**
-Docker, Git, GitHub and AWS deployment
+Docker, Git, GitHub, CI/CD basics and cloud deployment fundamentals
 
 ## 💡 About me
 
