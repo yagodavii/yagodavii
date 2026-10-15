@@ -55,8 +55,6 @@ Minha atuação combina:
 - Investigação e resolução de problemas
 - Evolução de sistemas em produção
 
-Tenho interesse especial em projetos que envolvam **Backend, Inteligência Artificial, automação, arquitetura e sistemas distribuídos**.
-
 ---
 
 ## 🧠 Atualmente aprofundando conhecimentos em
@@ -67,19 +65,6 @@ Tenho interesse especial em projetos que envolvam **Backend, Inteligência Artif
 - Cloud e AWS
 - Arquitetura de Software
 - Segurança da Informação e DevSecOps
-
----
-
-## 📌 Projetos em destaque
-
-### 🤖 JARVIS AI
-Assistente inteligente desenvolvido com Python e Node.js, capaz de interpretar comandos de voz, automatizar tarefas e executar ações no computador utilizando IA.
-
-### 🔗 APIs Backend
-Projetos envolvendo autenticação JWT, APIs REST, webhooks, integrações, persistência de dados e automações.
-
-### ⚙️ Automações e Integrações
-Projetos voltados à integração de sistemas, processamento de dados, webhooks, APIs e redução de tarefas manuais.
 
 ---
 
