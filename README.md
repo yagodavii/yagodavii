@@ -1,31 +1,89 @@
-## Hi there 👋
+# Olá! 👋
 
-Welcome to my GitHub profile!
+Bem-vindo ao meu perfil no GitHub!
 
-I'm a Backend Developer focused on AI-powered automation, APIs, scalable systems, internal tools, and practical software solutions. Here you will find projects related to backend development, system integrations, process automation, REST APIs, and AI-powered tools.
+Sou **Tech Lead**, com atuação hands-on em desenvolvimento backend, arquitetura de software, integrações, automações e Inteligência Artificial.
 
-## 🚀 Technologies and Areas of Focus
+Trabalho principalmente com **Node.js, TypeScript, Python, PostgreSQL, APIs REST e soluções com IA Generativa**, participando desde o desenvolvimento até decisões de arquitetura, code review e evolução técnica das soluções.
 
-**Back-end:**
-Node.js, Express, JavaScript, TypeScript, Python and REST APIs
+Aqui você encontrará projetos relacionados a backend, integrações entre sistemas, automação de processos, APIs e aplicações utilizando Inteligência Artificial.
 
-**Databases:**
-PostgreSQL, MySQL and MongoDB
+---
 
-**Automation:**
-n8n, Webhooks, API integrations and process automation
+## 🚀 Tecnologias e áreas de atuação
 
-**Artificial Intelligence:**
-Generative AI and LLM-based applications, including AI agents, RAG, prompt engineering, LLM orchestration, LangChain, LlamaIndex, LangGraph, OpenAI API, Anthropic/Claude, Gemini, MCP, n8n automation, virtual assistants, and AI workflow integration for real-world business processes
+**Back-end:**  
+Node.js, Express.js, TypeScript, JavaScript, Python, C#/.NET, Golang e APIs REST
 
-**Front-end:**
-HTML, CSS, JavaScript, TypeScript and React
+**Bancos de dados:**  
+PostgreSQL, MySQL, MongoDB e SQL
 
-**DevOps:**
-Docker, Git, GitHub, CI/CD workflows, AWS services, cloud deployment, and application delivery fundamentals
+**Arquitetura e Integrações:**  
+APIs REST, Webhooks, Microsserviços, Sistemas Distribuídos, Integrações entre Sistemas e Arquitetura de Software
 
-## 💡 About me
+**Inteligência Artificial:**  
+IA Generativa, LLMs, Agentes de IA, RAG, Prompt Engineering, LangChain, LangGraph, LlamaIndex, OpenAI API, Anthropic/Claude, Gemini, MCP e automações com IA
 
-I enjoy building practical, scalable and intelligent solutions that improve workflows, automate repetitive tasks and connect systems through backend technologies, APIs and artificial intelligence.
+**Automação:**  
+n8n, Webhooks, integrações com APIs e automação de processos
 
-Currently improving my skills in Generative AI, Full Stack Web Development, Cybersecurity, and AI-powered automation.
+**Front-end:**  
+React, React Native, TypeScript, JavaScript, HTML e CSS
+
+**Cloud & DevOps:**  
+AWS, Docker, Git, GitHub, CI/CD e fundamentos de deploy e infraestrutura em cloud
+
+**Mensageria:**  
+Kafka e processamento assíncrono
+
+---
+
+## 💡 Sobre mim
+
+Gosto de transformar problemas de negócio em soluções técnicas simples, escaláveis e confiáveis.
+
+Atualmente atuo como **Tech Lead na VR Software**, liderando tecnicamente frentes de desenvolvimento enquanto continuo participando diretamente da implementação de APIs, integrações, automações e soluções com IA.
+
+Minha atuação combina:
+
+- Liderança técnica e code review
+- Arquitetura de software
+- Desenvolvimento backend
+- APIs e integrações
+- Automação de processos
+- IA Generativa e agentes de IA
+- Investigação e resolução de problemas
+- Evolução de sistemas em produção
+
+Tenho interesse especial em projetos que envolvam **Backend, Inteligência Artificial, automação, arquitetura e sistemas distribuídos**.
+
+---
+
+## 🧠 Atualmente aprofundando conhecimentos em
+
+- IA Generativa e LLMs
+- RAG e arquiteturas de agentes
+- LLMOps / MLOps
+- Cloud e AWS
+- Arquitetura de Software
+- Segurança da Informação e DevSecOps
+
+---
+
+## 📌 Projetos em destaque
+
+### 🤖 JARVIS AI
+Assistente inteligente desenvolvido com Python e Node.js, capaz de interpretar comandos de voz, automatizar tarefas e executar ações no computador utilizando IA.
+
+### 🔗 APIs Backend
+Projetos envolvendo autenticação JWT, APIs REST, webhooks, integrações, persistência de dados e automações.
+
+### ⚙️ Automações e Integrações
+Projetos voltados à integração de sistemas, processamento de dados, webhooks, APIs e redução de tarefas manuais.
+
+---
+
+## 📫 Contato
+
+- **LinkedIn:** [linkedin.com/in/yagodavii](https://www.linkedin.com/in/yagodavii)
+- **Portfólio:** [yago-davi-portfolio.vercel.app](https://yago-davi-portfolio.vercel.app)
