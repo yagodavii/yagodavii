@@ -13,10 +13,10 @@ Aqui você encontrará projetos relacionados a backend, integrações entre sist
 ## 🚀 Tecnologias e áreas de atuação
 
 **Back-end:**  
-Node.js, Express.js, TypeScript, JavaScript, Python, C#/.NET, Golang e APIs REST
+Node.js, Express.js, TypeScript, JavaScript, Python e APIs REST
 
 **Bancos de dados:**  
-PostgreSQL, MySQL, MongoDB e SQL
+PostgreSQL, MongoDB
 
 **Arquitetura e Integrações:**  
 APIs REST, Webhooks, Microsserviços, Sistemas Distribuídos, Integrações entre Sistemas e Arquitetura de Software
@@ -28,13 +28,10 @@ IA Generativa, LLMs, Agentes de IA, RAG, Prompt Engineering, LangChain, LangGrap
 n8n, Webhooks, integrações com APIs e automação de processos
 
 **Front-end:**  
-React, React Native, TypeScript, JavaScript, HTML e CSS
+React, TypeScript, JavaScript
 
 **Cloud & DevOps:**  
 AWS, Docker, Git, GitHub, CI/CD e fundamentos de deploy e infraestrutura em cloud
-
-**Mensageria:**  
-Kafka e processamento assíncrono
 
 ---
 
@@ -61,7 +58,5 @@ Minha atuação combina:
 
 - IA Generativa e LLMs
 - RAG e arquiteturas de agentes
-- LLMOps / MLOps
 - Cloud e AWS
 - Arquitetura de Software
-- Segurança da Informação e DevSecOps
