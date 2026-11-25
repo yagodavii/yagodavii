@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub!
 
 Sou **Tech Lead**, com atuação hands-on em desenvolvimento backend, arquitetura de software, integrações, automações e Inteligência Artificial.
 
-Trabalho principalmente com **Node.js, TypeScript, Python, PostgreSQL, APIs REST e soluções com IA Generativa**, participando desde o desenvolvimento até decisões de arquitetura, code review e evolução técnica das soluções.
+Trabalho principalmente com **Node.js, Java, TypeScript, Python, PostgreSQL, APIs REST e soluções com IA Generativa**, participando desde o desenvolvimento até decisões de arquitetura, code review e evolução técnica das soluções.
 
 Aqui você encontrará projetos relacionados a backend, integrações entre sistemas, automação de processos, APIs e aplicações utilizando Inteligência Artificial.
 
@@ -13,7 +13,7 @@ Aqui você encontrará projetos relacionados a backend, integrações entre sist
 ## 🚀 Tecnologias e áreas de atuação
 
 **Back-end:**  
-Node.js, Express.js, TypeScript, JavaScript, Python e APIs REST
+Node.js, Java, Express.js, TypeScript, JavaScript, Python e APIs REST
 
 **Bancos de dados:**  
 PostgreSQL, MongoDB
@@ -31,7 +31,7 @@ n8n, Webhooks, integrações com APIs e automação de processos
 React, TypeScript, JavaScript
 
 **Cloud & DevOps:**  
-AWS, Docker, Git, GitHub, CI/CD e fundamentos de deploy e infraestrutura em cloud
+AWS, Docker, Kubernetes, Git, GitHub, CI/CD e fundamentos de deploy e infraestrutura em cloud
 
 ---
 
