@@ -39,7 +39,7 @@ React, TypeScript, JavaScript
 
 **Testes e Qualidade:**
 
-JUnit, Mockito, Testcontainers, WireMock, Testes Unitários, Testes de Integração, Testes E2E e Code Review
+SOLID, JUnit, Mockito, Testcontainers, WireMock, Testes Unitários, Testes de Integração, Testes E2E e Code Review
 
 **Cloud & DevOps:**
 
