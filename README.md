@@ -19,7 +19,7 @@ Node.js, Java (Collections, Generics, Streams, Lambda e Exceções), Spring Boot
 
 **Bancos de dados:**
 
-PostgreSQL, MongoDB, SQL, MySQL, JPA e Prisma ORM
+PostgreSQL, MongoDB, JPA e Prisma ORM
 
 **Arquitetura e Integrações:**
 
@@ -43,7 +43,7 @@ JUnit, Mockito, Testcontainers, WireMock, Testes Unitários, Testes de Integraç
 
 **Cloud & DevOps:**
 
-AWS (Lambda, S3, SQS, SNS, CloudWatch, Cognito e IAM), Cloudflare, Docker, Kubernetes, Git, GitHub, Gitflow, Merge, Rebase, Tags, Pull Requests, CI/CD, Observabilidade, EasyPanel, Hostinger e Webdock
+AWS (Lambda, S3, SQS, SNS, CloudWatch, Cognito e IAM), Cloudflare, Docker, Kubernetes, Git, CI/CD, Observabilidade, EasyPanel, Hostinger e Webdock
 
 ---
 
